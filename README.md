@@ -1,6 +1,6 @@
 # AeroInspect.AI
 
-#**Introduction**
+# **Introduction**
 
 In an aviation industry where every second counts and every mistake can cost millions, the aviation sector is surrounded with the pressing challenge: Ensuring on-time deliveries without compromising on quality.
 even the smallest flaw in design or manufacturing can lead to massive delays, skyrocketing costs, and, most critically, safety risks. a single quality lapse can ripple through the supply chain, halting production lines, grounding fleets, and shattering customer trust.
