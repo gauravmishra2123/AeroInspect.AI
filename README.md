@@ -68,13 +68,13 @@ This graph representing The real-time processing speed of AeroInspect.AI for dif
  
 Step-by-step instructions on how to set up and deploy AeroInspect.AI.
 
-** STEP 1 : **  Clone the repository:
+**STEP 1 : **  Clone the repository:
 
 ```
     git clone https://github.com/your-repository-url.git
 ```
 
-** STEP 2 : ** Install dependencies:
+**STEP 2 : ** Install dependencies:
 
 
  ```    
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 ```
 
 
-** STEP 3 : ** Run the application:
+**STEP 3 : ** Run the application:
  
 ``` 
 python run_model.py
