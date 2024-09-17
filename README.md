@@ -68,13 +68,13 @@ This graph representing The real-time processing speed of AeroInspect.AI for dif
  
 Step-by-step instructions on how to set up and deploy AeroInspect.AI.
 
-**STEP 1 : **  Clone the repository:
+STEP 1 :   Clone the repository:
 
 ```
     git clone https://github.com/your-repository-url.git
 ```
 
-**STEP 2 : ** Install dependencies:
+STEP 2 :  Install dependencies:
 
 
  ```    
@@ -82,11 +82,36 @@ pip install -r requirements.txt
 ```
 
 
-**STEP 3 : ** Run the application:
+STEP 3 :  Run the application:
  
 ``` 
 python run_model.py
 ```
+
+# **Usage**
+
+How to use AeroInspect.AI for defect detection:
+<br> </br>
+
+Upload the video stream or connect to the production line.
+The system will automatically begin processing and detecting defects.
+Real-time alerts will be generated for any detected defects.
+
+# **Future Improvements**
+
+Future Improvements can showcase our commitment with Aeroinspect.AI  and continuous innovation and evolution , these are the below mention points that align with our long-term goals
+
+1. **Edge Computing for faster Processing** : Deploy edge computing to process data directly on production lines, reducing latency and improving real-time response times.
+
+2. **Augmented Reality (AR) for Defect Visualization** : We can integrate AR to give operators real-time visual overlays, highlighting defects and guiding them step-by-step through the repair process, so they can quickly spot and fix issues.
+
+3. **Expanding Defect Detection Capabilities of AeroInspect.AI**: Currently AeroInspect.AI detect 17 distinct types of defects . We aim to expand this by integrating advanced algorithms and more diverse data to identify even more issues.
+
+4. **Integration of Digital Twin with Deep Learning**: By combining Digital Twin with deep learning, we can create real-time simulations of our processes. This helps us spot potential issues early and fine-tune performance by comparing virtual models with actual data.
+
+
+
+
 
 
 
