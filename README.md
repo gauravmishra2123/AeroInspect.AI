@@ -58,6 +58,39 @@ Here is the graph representing Detection Accuracy Over Time for AeroInspect.AI, 
 This graph representing The real-time processing speed of AeroInspect.AI for different types of defects.
 
 
+# **PRODUCT SCREENSHOT :**
+
+
+<img width="1110" alt="Screenshot 2024-09-17 at 6 51 15 PM" src="https://github.com/user-attachments/assets/0fbdab3d-4249-4dee-b9a7-870fdf0e9004">
+
+
+ # **Installation & Setup**
+ 
+Step-by-step instructions on how to set up and deploy AeroInspect.AI.
+
+** STEP 1 : **  Clone the repository:
+
+```
+    git clone https://github.com/your-repository-url.git
+```
+
+** STEP 2 : ** Install dependencies:
+
+
+ ```    
+pip install -r requirements.txt
+```
+
+
+** STEP 3 : ** Run the application:
+ 
+``` 
+python run_model.py
+```
+
+
+
+
 
 
 
