@@ -1,0 +1,19 @@
+names:
+- 3D Printer
+- Layer shift
+- Poor bridging
+- Stringing-Poor-bridging-Overhang
+- Stringinh
+- Under extrusion
+- Zits
+- warping
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: 3d-printer-defect
+  url: https://universe.roboflow.com/yolov10-dnqmz/3d-printer-defect/dataset/2
+  version: 2
+  workspace: yolov10-dnqmz
+test: test/images
+train: train/images
+val: valid/images
